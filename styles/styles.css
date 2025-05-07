@@ -127,3 +127,13 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+
+/* Main */
+
+@font-face {
+  font-family: "deca";
+  src: url(../assets/fonts/LexendDeca-VariableFont_wght.ttf);
+}
+body {
+  font-family: "deca"
+}
